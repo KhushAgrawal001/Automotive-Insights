@@ -59,3 +59,9 @@ To get started with the project:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your_username/Automotive-Insights.git
+2. Navigate to the project directory:
+   ```bash
+   cd Automotive-Insights
+3. Open the Jupyter Notebook for data analysis:
+   ```bash
+   jupyter notebook
